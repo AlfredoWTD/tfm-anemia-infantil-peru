@@ -5,8 +5,7 @@ Predicción de anemia infantil en Perú mediante aprendizaje supervisado. Análi
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Trabajo de Fin de Máster  
-**Máster en Ciencia de Datos** - Universidad Internacional de La Rioja (UNIR)  
+Trabajo de Fin de Máster - Universidad Internacional de La Rioja (UNIR)  
 Autor: Alfredo Walter Tinco Domínguez  
 Año: 2025
 
